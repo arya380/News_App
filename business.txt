@@ -1,0 +1,7 @@
+business
+entertainment
+general
+heath
+science
+spots
+technlogy
